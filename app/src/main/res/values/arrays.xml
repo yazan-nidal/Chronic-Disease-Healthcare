@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="newChronicDiseases_prompt">Select Name and Type of Chronic Diseases:</string>
+    <string name="TypeTestPrompt">Select Type of Test:"</string>
+    <string name="SelectPatientPrompt">Select Type of Test:</string>
+
+    <string-array name="arrayChronicDiseases">
+        <item>Diabetes ( Type 1 )</item>
+        <item>Diabetes ( Type 2 )</item>
+        <item>Diabetes ( Gestational (GDM) )</item>
+        <item>Hypertension ( Essential )</item>
+        <item>Hypertension ( Secondary )</item>
+        <item>Hypertension ( Isolated systolic  )</item>
+        <item>Hypertension ( Malignant )</item>
+        <item>Hypertension ( Resistant )</item>
+        <item>Cholesterol and Fats</item>
+    </string-array>
+
+    <string-array name="arrayTestRecords">
+        <item>Glucose Test</item>
+     </string-array>
+
+    <string-array name="arrayTests">
+        <item>Doctor Appointment</item>
+        <item>Glucose Test</item>
+        <item>F.B.S test</item>
+        <item>Cumulative test</item>
+        <item>Hypertension test</item>
+        <item>Cholesterol and Fats test</item>
+        <item>Liver test</item>
+        <item>Kidneys test</item>
+        <item>comprehensive test</item>
+    </string-array>
+
+    <string-array name="SelectPatient">
+        <item>wait to get Patient List...</item>
+    </string-array>
+
+    <string-array name="SelectMedicine">
+        <item>wait to get Medicine List...</item>
+    </string-array>
+
+    <string name="SelectComplicationPrompt">Select a Complication:</string>
+    <string-array name="SelectComplication">
+        <item>Select Complication:</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#056099</color>
+    <color name="colorPrimaryDark">#033859</color>
+    <color name="colorAccent">#0790E6</color>
+    <color name="txt_black">#323232</color>
+    <color name="subtxt_black">#4B4B4B</color>
+    <color name="hint_color">#33373b</color>
+    <color name="seperator_color">#CCCCCC</color>
+    <color name="background_color">#f8f7fb</color>
+    <color name="colorSecondary">#efefef</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="yellow">#FFE500</color>
+    <color name="remove_request_color">#FA8445</color>
+    <color name="toast_color">#121212</color>
+    <color name="success_color">#23CD00</color>
+    <color name="warning_color">#F5C206</color>
+    <color name="error_color">#DD0000</color>
+    <color name="info_color">#077BCD</color>
+    <color name="glucose_color">#FF6B31</color>
+    <color name="blood_pressure_color">#F10000</color>
+    <color name="total_cholesterol_color">#8500ff</color>
+    <color name="hdl_color">#749B23</color>
+    <color name="ldl_color">#FAC332</color>
+    <color name="triglyceride_color">#778BD1</color>
+    <color name="transparent_color">@android:color/transparent</color>
+    <color name="charts_button_color">#25DF6A</color>
+</resources>
